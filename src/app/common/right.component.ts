@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
     Derecha`
 })
 export class RightComponent {
-  
+
 }
